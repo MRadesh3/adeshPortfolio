@@ -8,7 +8,7 @@ Hello visitors , I'm a skilled web developer passionate about crafting user-cent
 
 ## Live Demonstration
 
-The react admin dashboard demo can be [viewed online here](https://nikeshoes-three.vercel.app/)
+The react admin dashboard demo can be [viewed online here](https://adesh-nine.vercel.app/)
 
 Here are screenshots that show the demo application in use.
 
@@ -42,4 +42,4 @@ Let's build something amazing together !
 
 ## Feedback
 
-If you have any feedback, please reach out to us at shopinggocustomers@gmail.com
+If you have any feedback, please reach out to us at adeshsalsundar1713@gmail.com
