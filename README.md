@@ -24,13 +24,13 @@ Here are screenshots that show the demo application in use.
 
 - **[React - Admin Dashboard ](https://reactadmindashboard-seven.vercel.app/)** : ( Role : Developer ) A React admin dashboard is a dynamic web application interface designed for efficiently managing and visualizing data within an organization.
 
-- **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
+- **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files, and many more.
 
 Feel free to explore my [GitHub profile](https://github.com/MRadesh3) for more examples of my work.
 
 ### 🔗 Get In Touch
 
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adeshsalsundar.online/)
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesh-salsundar-a73b4121a/)
 
@@ -42,4 +42,4 @@ Let's build something amazing together !
 
 ## Feedback
 
-If you have any feedback, please reach out to us at adeshsalsundar1713@gmail.com
+If you have any feedback, please reach out to me at adeshsalsundar1713@gmail.com
