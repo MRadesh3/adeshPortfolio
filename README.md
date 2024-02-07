@@ -8,7 +8,7 @@ Hello visitors, I'm a skilled web developer passionate about crafting user-centr
 
 ## Live Demonstration
 
-The react admin dashboard demo can be [viewed online here](https://nikeshoes-three.vercel.app/)
+The react admin dashboard demo can be [viewed online here](https://adesh-nine.vercel.app/)
 
 Here are screenshots that show the demo application in use.
 
