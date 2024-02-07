@@ -4,11 +4,19 @@
 
 ## 🚀 About Me
 
+<<<<<<< HEAD
 Hello visitors , I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
 
 ## Live Demonstration
 
 The react admin dashboard demo can be [viewed online here](https://nikeshoes-three.vercel.app/)
+=======
+Hello visitors, I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
+
+## Live Demonstration
+
+The react admin dashboard demo can be [viewed online here](https://adesh-nine.vercel.app/)
+>>>>>>> origin/main
 
 Here are screenshots that show the demo application in use.
 
@@ -24,7 +32,11 @@ Here are screenshots that show the demo application in use.
 
 - **[React - Admin Dashboard ](https://reactadmindashboard-seven.vercel.app/)** : ( Role : Developer ) A React admin dashboard is a dynamic web application interface designed for efficiently managing and visualizing data within an organization.
 
+<<<<<<< HEAD
 - **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
+=======
+- **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files, and many more.
+>>>>>>> origin/main
 
 Feel free to explore my [GitHub profile](https://github.com/MRadesh3) for more examples of my work.
 
@@ -42,4 +54,8 @@ Let's build something amazing together !
 
 ## Feedback
 
+<<<<<<< HEAD
 If you have any feedback, please reach out to us at adeshsalsundar1713@gmail.com
+=======
+If you have any feedback, please reach out to me at adeshsalsundar1713@gmail.com
+>>>>>>> origin/main
