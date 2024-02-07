@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-Hello visitors , I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
+Hello visitors, I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
 
 ## Live Demonstration
 
-The react admin dashboard demo can be [viewed online here](https://adesh-nine.vercel.app/)
+The react admin dashboard demo can be [viewed online here](https://nikeshoes-three.vercel.app/)
 
 Here are screenshots that show the demo application in use.
 
@@ -22,9 +22,9 @@ Here are screenshots that show the demo application in use.
 
 - **[ThoughtFlix ](https://thoughtflix.vercel.app/)** : ( Role : Developer ) Welcome to ThoughtFlix, where profound wisdom meets cinematic flair. Immerse yourself in a world where quotes come to life, each thought unfolding like scenes in a movie. ThoughtFlix is not just a platform; it's a journey through the landscapes of inspiration, where the power of words is captured in every frame. Discover the art of living thoughtfully, as we curate and present a reel of insightful quotes that resonate with the rhythm of life. Join us on this cinematic voyage, where the screen is your canvas, and each quote paints a masterpiece of inspiration. Welcome to ThoughtFlix – where ideas sparkle, and thoughts shine in the spotlight.
 
-- **[DBATU - Student Drive ](https://mradesh3.github.io/DBATU-Student-Drive/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
+- **[React - Admin Dashboard ](https://reactadmindashboard-seven.vercel.app/)** : ( Role : Developer ) A React admin dashboard is a dynamic web application interface designed for efficiently managing and visualizing data within an organization.
 
-- **[Technical Trip](https://mradesh3.github.io/DBATU-Student-Drive/)** : ( Role : Developer ) Welcome to Technical Trip, where we introduce our users to the beneficial tools that they equired in their technical trip.
+- **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
 
 Feel free to explore my [GitHub profile](https://github.com/MRadesh3) for more examples of my work.
 
