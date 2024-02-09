@@ -18,7 +18,14 @@ const ProjectsBtn = () => {
         />
         <HiArrowRight className="absolute text-3xl group-hover:translate-x-2 transition-all duration-300" />
       </Link>
-      <a href="/assets/images/adesh-resume.pdf" className="button" download>
+      <a
+        className="button"
+        download
+        onClick={(e) => {
+          e.preventDefault();
+          window.open("/assets/images/adesh-resume.pdf", "_blank");
+        }}
+      >
         Resume <HiIdentification className="inline-block ml-2 text-xl" />
       </a>
     </div>
